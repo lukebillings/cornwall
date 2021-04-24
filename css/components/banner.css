@@ -1,0 +1,20 @@
+.circle {
+    background: #FCAE18;
+    height: 740px;
+    width: 740px;
+    border-radius: 50%;
+    position: absolute;
+    top: -186px;
+    right: -176px;
+  }
+
+
+.penzance {
+  height: 311px;
+  width: 557px;
+  position: absolute;
+  right: 161px;
+  top: 161px;
+  z-index: 1;
+  border-radius: 8px;
+}

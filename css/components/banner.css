@@ -16,8 +16,9 @@
   right: 161px;
   top: 161px;
   z-index: 1;
-  border-radius: 8px;
-  border-bottom-right-radius: 50% 20%;
-  border-top-right-radius: 50% 20%;
+  border-bottom-right-radius: 169% 251%;
+  border-top-right-radius: 179% 344%;
+  border-bottom-left-radius: 194% 379%;
+  border-top-left-radius: 212% 205%;
 
 }

@@ -22,3 +22,16 @@
   border-top-left-radius: 212% 205%;
 
 }
+
+
+
+@media(max-width: 1200px) {
+
+  .penzance {
+    display: none;
+  }
+
+    .circle {
+    display: none; ;
+  }
+}

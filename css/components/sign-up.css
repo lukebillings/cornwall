@@ -1,0 +1,26 @@
+.btn-sign-up {
+  background-color: black;
+  color: white;
+  border-radius: 0px 5px 5px 0px;
+  width: 126px;
+  height: 38px;
+  font-family: 'Manrope', sans-serif;
+  border: none;
+  transition: all 0.5s;
+  margin-left: -4px;
+}
+
+.btn-sign-up:hover {
+  background-color: #FCAE18;
+  color: black;
+  font-weight: 800;
+ }
+
+
+.email-input {
+  height: 38px;
+  width: 248px;
+  padding-left: 10px;
+  background-color: #EEEFF4;
+  border: none;
+}

@@ -1,0 +1,32 @@
+.container {
+  max-width: 1040px;
+  margin: auto;
+}
+
+.container h2  {
+  text-align: center;
+  font-size: 48px;
+}
+
+.cards {
+  display: flex;
+}
+
+.card {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card h3 {
+  text-align: center;
+}
+
+.card p {
+  text-align: center;
+}
+
+.card img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

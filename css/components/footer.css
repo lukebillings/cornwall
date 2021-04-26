@@ -1,0 +1,15 @@
+.list {
+list-style-type: none;
+margin-top: 60px;
+padding-top: 108px;
+padding-bottom: 86px;
+background-color: black;
+color: white;
+text-align: center;
+}
+
+.list li {
+display: inline-block;
+margin-right: 20px;
+margin-left: 20px;
+}

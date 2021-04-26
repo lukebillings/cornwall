@@ -3,6 +3,7 @@
 @import url("components/intro.css");
 @import url("components/banner.css");
 @import url("components/cards.css");
+@import url("components/footer.css");
 
 
 /*fonts*/
@@ -14,6 +15,6 @@
 
 /*general style*/
 
-h1, h2, h3, p {
+h1, h2, h3, p, li {
  font-family: 'Manrope', sans-serif;
 }

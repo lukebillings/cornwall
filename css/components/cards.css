@@ -6,6 +6,7 @@
 .container h2  {
   text-align: center;
   font-size: 48px;
+  font-weight: 400;
 }
 
 .cards {
@@ -26,10 +27,12 @@
 
 .card h3 {
   text-align: center;
+  font-weight: 400;
 }
 
 .card p {
   text-align: center;
+  font-weight: 300;
 }
 
 .card img {

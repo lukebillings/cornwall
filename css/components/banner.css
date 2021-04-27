@@ -1,13 +1,3 @@
-.circle {
-    background: #FCAE18;
-    height: 740px;
-    width: 740px;
-    border-radius: 50%;
-    position: absolute;
-    top: -186px;
-    right: -176px;
-  }
-
 
 .penzance {
   height: 311px;
@@ -26,26 +16,16 @@
 
 
 @media(max-width: 1350px) {
-
   .penzance {
     position: absolute;
     top: 60px;
   }
+}
 
-    .circle {
-    position: absolute;
-
-  }
 
 
 @media(max-width: 1150px) {
-
   .penzance {
   display: none;
-  }
-
-    .circle {
-   display: none;
-  }
-
+   }
   }

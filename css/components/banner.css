@@ -25,13 +25,27 @@
 
 
 
-@media(max-width: 1200px) {
+@media(max-width: 1350px) {
 
   .penzance {
-    display: none;
+    position: absolute;
+    top: 60px;
   }
 
     .circle {
-    display: none; ;
+    position: absolute;
+
   }
-}
+
+
+@media(max-width: 1150px) {
+
+  .penzance {
+  display: none;
+  }
+
+    .circle {
+   display: none;
+  }
+
+  }

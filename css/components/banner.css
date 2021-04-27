@@ -1,31 +1,9 @@
 
-.penzance {
-  height: 311px;
-  width: 557px;
-  position: absolute;
-  right: 161px;
-  top: 161px;
-  z-index: 1;
-  border-bottom-right-radius: 169% 251%;
-  border-top-right-radius: 179% 344%;
-  border-bottom-left-radius: 194% 379%;
-  border-top-left-radius: 212% 205%;
-
-}
-
-
-
-@media(max-width: 1350px) {
-  .penzance {
-    position: absolute;
-    top: 60px;
-  }
-}
-
-
-
-@media(max-width: 1150px) {
-  .penzance {
-  display: none;
-   }
+.banner {
+  background: linear-gradient(180deg,rgba(19,19,19,0),rgba(0,0,0,0.4)), url(../../images/penzance.jpg);
+  background-size: cover;
+  padding-bottom: 80px;
+  padding-top: 102px;
+  margin-bottom: 50px;
+  padding-right: 50px;
   }

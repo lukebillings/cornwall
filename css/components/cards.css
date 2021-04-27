@@ -25,6 +25,19 @@
   padding: 20px;
 }
 
+
+.card:hover {
+  box-shadow: 0 10px 30px rgba(0,0,0,.3);
+
+}
+
+
+.card a {
+    text-decoration:none;
+    color: black;
+
+}
+
 .card h3 {
   text-align: center;
   font-weight: 400;
@@ -40,3 +53,6 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+
+

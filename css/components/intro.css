@@ -2,7 +2,6 @@
 .container-intro {
     max-height: 458px;
     max-width: 540px;
-    margin-top: 119px;
     margin-left: 165px;
 }
 
@@ -12,11 +11,13 @@
     font-size: 72px;
     margin-bottom: 16px;
     font-weight: 700;
+    color: white;
 }
 
 
 .container-intro p {
     font-size: 18px;
+    color: white;
 }
 
 

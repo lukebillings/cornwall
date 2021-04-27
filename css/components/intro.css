@@ -17,3 +17,28 @@
 .container-intro p {
     font-size: 18px;
 }
+
+
+@media(max-width: 1350px) {
+
+
+  .container-intro {
+
+    margin-top: 2px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+
+}
+
+.container-intro h1 {
+}
+
+
+.container-intro p {
+  max-width: 280px;
+
+
+}
+
+}
+

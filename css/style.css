@@ -16,6 +16,7 @@
 
 /*general style*/
 
-h1, h2, h3, p, li {
+body, h1, h2, h3, p, li {
  font-family: 'Manrope', sans-serif;
 }
+

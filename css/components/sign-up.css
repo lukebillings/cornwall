@@ -19,8 +19,18 @@
 
 .email-input {
   height: 38px;
-  width: 248px;
+  width:  180px;
   padding-left: 10px;
   background-color: #EEEFF4;
   border: none;
 }
+
+
+@media(max-width: 415px) {
+
+.email-input {
+  width: 100px;
+}
+
+}
+

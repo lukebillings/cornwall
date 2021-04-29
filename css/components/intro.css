@@ -43,14 +43,19 @@
 
 @media(max-width: 415px) {
 
-.email-input {
-  width: 100px;
-}
 
+  .container-intro {
+  width: 300px;
+}
 
 .container-intro h1 {
   font-size: 40px;
 }
+
+
+.container-intro p {
+  max-width: 200px;
+ }
 
 }
 

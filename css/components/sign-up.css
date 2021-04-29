@@ -29,8 +29,16 @@
 @media(max-width: 415px) {
 
 .email-input {
-  width: 100px;
+  margin-left: -30px;
+  font-size: 70%;
 }
+
+
+.btn-sign-up {
+  width: 100px;
+  height: 39px;
+  font-size: 70%;
+
 
 }
 
